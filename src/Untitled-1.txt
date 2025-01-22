@@ -1,0 +1,12 @@
+/* .screen-content::-webkit-scrollbar {
+  display: none; /* Hide scrollbar for Chrome, Safari, and Edge */
+}
+
+.screen-content {
+  -ms-overflow-style: none; /* IE and Edge */
+  scrollbar-width: none; /* Firefox */
+} */
+
+/* .outer-container .laptop-image:hover {
+  transform: scale(2);
+} */
